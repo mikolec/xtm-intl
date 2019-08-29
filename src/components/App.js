@@ -6,7 +6,7 @@ const url_base = "https://en.wikipedia.org/w/api.php?action=query&list=search&fo
 class App extends Component {
   state = {
     results: [],
-    searchInput: "Balboa",
+    searchInput: "",
     searchText: "",
     replaceInput: ""
   };
