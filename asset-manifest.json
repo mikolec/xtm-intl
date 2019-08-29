@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xtm-intl/static/css/main.0ff91870.chunk.css",
+    "main.js": "/xtm-intl/static/js/main.6b9cf4f4.chunk.js",
+    "main.js.map": "/xtm-intl/static/js/main.6b9cf4f4.chunk.js.map",
+    "runtime~main.js": "/xtm-intl/static/js/runtime~main.314a0512.js",
+    "runtime~main.js.map": "/xtm-intl/static/js/runtime~main.314a0512.js.map",
+    "static/js/2.28b0ab0a.chunk.js": "/xtm-intl/static/js/2.28b0ab0a.chunk.js",
+    "static/js/2.28b0ab0a.chunk.js.map": "/xtm-intl/static/js/2.28b0ab0a.chunk.js.map",
+    "index.html": "/xtm-intl/index.html",
+    "precache-manifest.0ae732e4324e6af589ef2a8ad397684b.js": "/xtm-intl/precache-manifest.0ae732e4324e6af589ef2a8ad397684b.js",
+    "service-worker.js": "/xtm-intl/service-worker.js",
+    "static/css/main.0ff91870.chunk.css.map": "/xtm-intl/static/css/main.0ff91870.chunk.css.map"
+  }
+}
