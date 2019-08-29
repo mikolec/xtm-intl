@@ -1,0 +1,23 @@
+.searchmatch {
+  background-color: yellow;
+}
+
+.wrapper {
+  margin: 50px auto;
+  width: 80vw;
+}
+
+.listWrapper {
+  text-align: left;
+}
+
+.inputWrapper {
+  margin-bottom: 10px;
+  /* text-align: center; */
+}
+
+.inputWrapper span,
+.inputWrapper input,
+.inputWrapper button {
+  margin-right: 5px;
+}
